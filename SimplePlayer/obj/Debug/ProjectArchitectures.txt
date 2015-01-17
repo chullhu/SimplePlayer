@@ -1,0 +1,1 @@
+c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\SimplePlayer.csproj;neutral

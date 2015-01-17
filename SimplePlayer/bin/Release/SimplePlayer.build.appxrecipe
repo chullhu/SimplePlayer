@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC</Machine>
+    <WindowsUser>Дмитрий</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9918961d-36c5-4694-a5d8-dc243ef13d00</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\bin\Release\SimplePlayer.exe">
+      <PackagePath>SimplePlayer.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\Killpop.mp3">
+      <PackagePath>Killpop.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\bin\Release\SimplePlayer.xr.xml">
+      <PackagePath>SimplePlayer.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\дмитрий\documents\visual studio 2013\Projects\SimplePlayer\SimplePlayer\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
